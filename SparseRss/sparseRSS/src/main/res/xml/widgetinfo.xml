@@ -5,5 +5,5 @@
     android:updatePeriodMillis="0"
     android:initialLayout="@layout/homescreenwidget"
     android:minResizeHeight="70dp"
-    android:resizeMode="vertical"
+    android:resizeMode="vertical|horizontal"
     android:configure="de.bernd.shandschuh.sparserss.widget.WidgetConfigActivity"/>
